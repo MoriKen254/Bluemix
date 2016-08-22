@@ -11,10 +11,10 @@ def main():
     #print(json.dumps(visual_recognition.delete_classifier(classifier_id='dogs_1780711670'), indent=2))
 
     print('Start Creating Classifier')
-    with open(join(dirname(__file__), '../resources/beagle.zip'), 'rb') as beagle, \
-            open(join(dirname(__file__), '../resources/husky.zip'), 'rb') as husky, \
-            open(join(dirname(__file__), '../resources/golden-retriever.zip'), 'rb') as golden_retriever, \
-            open(join(dirname(__file__), '../resources/cats.zip'), 'rb') as cats:
+    with open(join(dirname(__file__), '../../resources/beagle.zip'), 'rb') as beagle, \
+            open(join(dirname(__file__), '../../resources/husky.zip'), 'rb') as husky, \
+            open(join(dirname(__file__), '../../resources/golden-retriever.zip'), 'rb') as golden_retriever, \
+            open(join(dirname(__file__), '../../resources/cats.zip'), 'rb') as cats:
         print(json.dumps(
             visual_recognition.create_classifier('dogs',
                                                  beagle_positive_examples=beagle,

@@ -9,7 +9,7 @@ def main():
 
     print('Start Classifying')
 
-    with open(join(dirname(__file__), '../resources/dogs.jpg'), 'rb') as dogs:
+    with open(join(dirname(__file__), '../../resources/dogs.jpg'), 'rb') as dogs:
 
         print(json.dumps(visual_recognition.classify(
             images_file=dogs,  threshold=0.1, classifier_ids=['dogs_1474036614', 'default']), indent=2))
