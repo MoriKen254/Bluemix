@@ -16,7 +16,7 @@ Bluemix 関係諸々
 
 #### Bash (curl)
 - bash_sample/visual_recognition/create_classifier.bash を実行．
-- 
+
 ### 分類器の学習
 - api_key, classifier_ids 内のカスタムid は各自のidに変更すること．
 
