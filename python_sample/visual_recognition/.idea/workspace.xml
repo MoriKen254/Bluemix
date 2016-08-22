@@ -21,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="create_classifier.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="create_classifier.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/create_classifier.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+            <state relative-caret-position="68">
+              <caret line="7" column="108" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="108" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -65,11 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="watson_developer_cloud_service.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="watson_developer_cloud_service.py" pinned="false" current-in-tab="false">
         <entry file="file://C:/Python34/Lib/site-packages/watson_developer_cloud/watson_developer_cloud_service.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="252" column="49" selection-start-line="252" selection-start-column="49" selection-end-line="252" selection-end-column="49" />
+            <state relative-caret-position="88">
+              <caret line="248" column="0" selection-start-line="248" selection-start-column="0" selection-end-line="248" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -490,13 +490,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/create_classifier.py">
+    <entry file="file://C:/Python34/Lib/site-packages/watson_developer_cloud/watson_developer_cloud_service.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="88">
+          <caret line="248" column="0" selection-start-line="248" selection-start-column="0" selection-end-line="248" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -510,11 +508,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python34/Lib/site-packages/watson_developer_cloud/watson_developer_cloud_service.py">
+    <entry file="file://$PROJECT_DIR$/create_classifier.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="252" column="49" selection-start-line="252" selection-start-column="49" selection-end-line="252" selection-end-column="49" />
-          <folding />
+        <state relative-caret-position="68">
+          <caret line="7" column="108" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="108" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
