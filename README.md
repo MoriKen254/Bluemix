@@ -44,3 +44,4 @@ Bluemix 関係諸々
 - [索引次へ |前へ |DjangoによるWebアプリケーション開発入門 »MacOS X »第一章 - Django基礎編（Mac版）](http://eiry.bitbucket.org/mac/tutorial/installation.html)
 - [PepperタブレットにおけるJavaScript活用コンテンツ(QiMessaging JavaScript)](http://qiita.com/Atelier-Akihabara/items/716e88b306db12751c9b)
 - [pepper conrtoller](http://kuetsuhara.github.io/pepperConnect.html)
+- [manpower_categorizer](https://github.com/AriYu/manpower_categorizer)
