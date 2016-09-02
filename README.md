@@ -45,3 +45,7 @@ Bluemix 関係諸々
 - [PepperタブレットにおけるJavaScript活用コンテンツ(QiMessaging JavaScript)](http://qiita.com/Atelier-Akihabara/items/716e88b306db12751c9b)
 - [pepper conrtoller](http://kuetsuhara.github.io/pepperConnect.html)
 - [manpower_categorizer](https://github.com/AriYu/manpower_categorizer)
+- [DjangoページでAjaxしてみる](http://qiita.com/juniskw/items/7fa72f91e3dc899a80ae)
+- [Ajaxの通信エラー情報を表示する方法](http://javatechnology.net/ajax/jquery-ajax-error/)
+- [Performing AJAX POST Requests in Django](http://coreymaynard.com/blog/performing-ajax-post-requests-in-django/)
+- [Djangoで静的に画像を表示させる（MEDIA_ROOT、MEDIA_URL諸々の設定方法）](http://d.hatena.ne.jp/iiapp/20110319/1300534597)
